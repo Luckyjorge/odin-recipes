@@ -1,0 +1,17 @@
+h1 {
+    background: rgb(97, 82, 24);
+}
+
+.flex-container {
+    display: flex;
+    height: auto;
+    align-items: center;
+    display: inline-block;
+    justify-content: flex-start;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 0 20px;
+}
